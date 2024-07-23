@@ -14,7 +14,8 @@ export default function IndexPage() {
       <div>Introduce</div>
       <div>Work Experience</div>
       <div>Other Experience</div>
-      <div>Skill</div>≤<div>Education</div>
+      <div>Skill</div>
+      <div>Education</div>
     </>
   );
 }
